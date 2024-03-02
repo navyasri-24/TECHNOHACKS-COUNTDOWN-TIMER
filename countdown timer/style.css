@@ -1,0 +1,26 @@
+body {
+    background-image: url('jj.jpg'); /* Replace 'background.jpg' with the path to your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    
+  }
+
+
+.timer-container {
+    text-align: center;
+  }
+  
+  .display {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .buttons button {
+    margin: 0 5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
